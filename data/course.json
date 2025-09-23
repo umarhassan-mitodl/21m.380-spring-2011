@@ -1,0 +1,68 @@
+{
+  "term": "Spring",
+  "year": "2011",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Music",
+      "Music History"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Theory"
+    ],
+    [
+      "Fine Arts",
+      "Music",
+      "Music Performance"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Human-Computer Interfaces"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ]
+  ],
+  "legacy_uid": "1482361c-38a6-6a79-9408-0a463b64781e",
+  "instructors": {
+    "content": [
+      "5372fdf3-1d20-6255-d552-d5512391fb4f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "73f8bc8d-3df6-b228-1bc0-d16d7946bea7",
+    "website": "21m-380-music-and-technology-live-electronics-performance-practices-spring-2011"
+  },
+  "course_title": "Music and Technology: Live Electronics Performance Practices",
+  "course_description": "This course is a creative, hands-on exploration of contemporary and historical approaches to live electronics performance and improvisation, including basic analog instrument design, computer synthesis programming, and hardware and software interface design.\n",
+  "department_numbers": [
+    "21M"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21M.380",
+  "course_image_thumbnail": {
+    "content": "651bfbec-92cb-f331-47f3-7c9b5d57eb17",
+    "website": "21m-380-music-and-technology-live-electronics-performance-practices-spring-2011"
+  },
+  "learning_resource_types": [
+    "Demonstration Videos",
+    "Lecture Notes",
+    "Music Audio",
+    "Media Assignments with Examples",
+    "Presentation Assignments",
+    "Programming Assignments"
+  ],
+  "site_uid": "f0bd8995-9deb-400c-a5a2-b2767c7e1841",
+  "site_short_id": "21m.380-spring-2011",
+  "site_url_path": "courses/21m-380-music-and-technology-live-electronics-performance-practices-spring-2011",
+  "title": "Course Metadata"
+}
