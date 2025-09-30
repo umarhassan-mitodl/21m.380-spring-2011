@@ -43,6 +43,7 @@
     "website": "21m-380-music-and-technology-live-electronics-performance-practices-spring-2011"
   },
   "course_title": "Music and Technology: Live Electronics Performance Practices",
+  "hide_download": true,
   "course_description": "This course is a creative, hands-on exploration of contemporary and historical approaches to live electronics performance and improvisation, including basic analog instrument design, computer synthesis programming, and hardware and software interface design.\n",
   "department_numbers": [
     "21M"
@@ -53,6 +54,7 @@
     "content": "651bfbec-92cb-f331-47f3-7c9b5d57eb17",
     "website": "21m-380-music-and-technology-live-electronics-performance-practices-spring-2011"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Demonstration Videos",
     "Lecture Notes",

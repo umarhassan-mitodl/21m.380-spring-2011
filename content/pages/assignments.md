@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the class assignments and audio recordings from
   the final class concert.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

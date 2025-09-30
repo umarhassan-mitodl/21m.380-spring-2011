@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides links to free software tools used for the class,
   and a site that provides free downloads of high quality audio files.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection
@@ -26,7 +28,7 @@ DESCRIPTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "270bcb7b-866d-49ca-988b-b7a421e55faa" "Audacity®" %}}
+[Audacity®](http://audacity.sourceforge.net/)
 {{< tdclose >}}
 {{< tdopen >}}
 Sound recording and editing software.
@@ -35,7 +37,7 @@ Sound recording and editing software.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "102bf1c0-aa7a-456f-8d69-06bfc366c947" "The Freesound Project" %}}
+[The Freesound Project](http://freesound.org/)
 {{< tdclose >}}
 {{< tdopen >}}
 Collaborative database of Creative Commons licensed sounds
@@ -44,7 +46,7 @@ Collaborative database of Creative Commons licensed sounds
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "0fce64c4-c91d-44c6-bb43-a612d54025f8" "Martingale" %}}
+[Martingale](http://code.google.com/p/martingale)
 {{< tdclose >}}
 {{< tdopen >}}
 Collection of pedagogical computer music tools in Pure Data.
@@ -53,7 +55,7 @@ Collection of pedagogical computer music tools in Pure Data.
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "fd0ac241-b6e7-4d54-ab18-f282e72c9bc2" "Pure Data" %}}
+[Pure Data](http://puredata.info/)
 {{< tdclose >}}
 {{< tdopen >}}
 Real-time graphical programming environment for audio, video, and graphical processing. It is the third major branch of the family of patcher programming languages known as Max.
@@ -62,7 +64,7 @@ Real-time graphical programming environment for audio, video, and graphical proc
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{% resource_link "1b1f0d5f-117a-4e76-9796-a50bcd5cf38a" "SuperCollider" %}}
+[SuperCollider](http://supercollider.sourceforge.net/)
 {{< tdclose >}}
 {{< tdopen >}}
 An environment and programming language for real time audio synthesis and algorithmic composition.
@@ -72,4 +74,4 @@ An environment and programming language for real time audio synthesis and algori
 
 {{< tableclose >}}
 
-{{% resource_link "289bfdaf-cda1-4470-b852-f88f21b28919" "flexatone h.f.p" %}}. is the front of composer and sound designer Christopher Ariza. This site provides free downloads of complete, un-cut, high-quality mp3 and ogg audio files of experimental concert, computer, and electro-acoustic music, as well as information about the music, music research, algorithmic music software, and on-line tools for music analysis and creation. Music on this site is distributed for free, without cost or registration; software on this site is either free or open source.
+[flexatone h.f.p](http://flexatone.net/). is the front of composer and sound designer Christopher Ariza. This site provides free downloads of complete, un-cut, high-quality mp3 and ogg audio files of experimental concert, computer, and electro-acoustic music, as well as information about the music, music research, algorithmic music software, and on-line tools for music analysis and creation. Music on this site is distributed for free, without cost or registration; software on this site is either free or open source.
