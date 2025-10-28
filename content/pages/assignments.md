@@ -2,34 +2,27 @@
 content_type: page
 description: This section provides the class assignments and audio recordings from
   the final class concert.
-hide_download: true
-hide_download_original: null
+draft: false
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
 title: Assignments
 uid: ccc9e7a4-0efe-c3f3-898c-c317caa66fdc
 ---
+This page includes descriptions of each assignment, and includes video and audio recordings from the class {{% resource_link "d943f3d9-c612-46a8-9eb5-9c76a77aa916" "concert performance" %}} at the end of the term.
 
-This page includes descriptions of each assignment, and includes video and audio recordings from the class [concert performance](#class_concert) at the end of the term.
-
-Pd Tutorials
-------------
+## Pd Tutorials
 
 Pd Tutorials are short Pd programming tasks, to be submitted as complete Pd files. Written comments and answers to questions must be included as comments. Each tutorial will be reviewed at the beginning of class on the due date.
 
-Descriptions of each tutorial may be found in the {{% resource_link 25fbd1fd-0374-996c-f551-1b1dd2edb624 "lecture notes" %}} for the session preceding their due date:
+Descriptions of each tutorial may be found in the {{% resource_link "25fbd1fd-0374-996c-f551-1b1dd2edb624" "lecture notes" %}} for the session preceding their due date:
 
-*   Pd Tutorial 1: see end of Lecture Notes, Session 2 ({{% resource_link 2ff76412-ddea-c030-9512-73f85d08b798 "PDF" %}})
-  
-*   Pd Tutorial 2: see end of Lecture Notes, Session 3 ({{% resource_link 9bb883ab-523a-6728-9056-67e5a637f330 "PDF" %}})
-  
-*   Pd Tutorial 3: see end of Lecture Notes, Session 4 ({{% resource_link f618679e-fa98-00ae-85ed-349bdf8862d6 "PDF" %}})
-  
-*   Pd Tutorial 4: see end of Lecture Notes, Session 6 ({{% resource_link 15cbc256-b82d-4584-2800-c86d227c6986 "PDF" %}})
+- Pd Tutorial 1: see end of Lecture Notes, Session 2 ({{% resource_link "2ff76412-ddea-c030-9512-73f85d08b798" "PDF" %}})
+- Pd Tutorial 2: see end of Lecture Notes, Session 3 ({{% resource_link "9bb883ab-523a-6728-9056-67e5a637f330" "PDF" %}})
+- Pd Tutorial 3: see end of Lecture Notes, Session 4 ({{% resource_link "f618679e-fa98-00ae-85ed-349bdf8862d6" "PDF" %}})
+- Pd Tutorial 4: see end of Lecture Notes, Session 6 ({{% resource_link "15cbc256-b82d-4584-2800-c86d227c6986" "PDF" %}})
 
-Controller/Interface/Instrument Design 1
-----------------------------------------
+## Controller/Interface/Instrument Design 1
 
 This assignment is an original design for and implementation of a controller/interface/instrument employing a dual-analog game controller and a Pd synthesis, sampling, or signal processing system.
 
@@ -41,8 +34,7 @@ Produce an operational prototype or minimal implementation of the controller/int
 
 Students must submit the complete Pd code and a written report. The Design 1 report is a written document (at least 500 words, or about 2 double-spaced pages in a 12 point serif font with one inch margins) consisting of at least the following sections. (1) A discussion of musical and/or aesthetic motivations. (2) A brief analysis of the system's main components, interface, and sound production techniques. (3) An evaluation of the aesthetic quality of the results and a description of how the system might be improved and expanded.
 
-Controller/Interface/Instrument Design 2
-----------------------------------------
+## Controller/Interface/Instrument Design 2
 
 This assignment is an original design for and implementation of a controller/interface/instrument employing any mechanism and/or sound production process. The system must have at least two performative input parameters.
 
@@ -60,8 +52,7 @@ The Design 2 project report is a written document (around 800 words, or about 3 
 
 Students must prepare and deliver a ten minute aural presentation on their design. The presentation should include main points from the project report. Additionally, students must demonstrate the sonic possibilities of the controller, interface, or instrument, treated in isolation and/or in the context of other sound sources and/or music.
 
-Performance Framework
----------------------
+## Performance Framework
 
 The Performance Framework is a creative assignment, completed in small groups, specifying interfaces, procedures, musical materials, and/or interactions for an ensemble performance lasting from four to eight minutes. The performance framework must be delivered in any of the following formats: written graphical, textual, or symbolic notation; sound file or sonic materials; signal processing designs or implementations; and/or interface designs or implementations. The frameworks will be demonstrated in the class concert at the end of the term.
 
@@ -69,33 +60,32 @@ The Performance Framework is a creative assignment, completed in small groups, s
 
 At the start of this assignment, students will give a presentation including a sketch, outline, or preliminary materials and designs for the Performance Framework.
 
-{{< anchor "class_concert" >}}{{< /anchor >}}Class Concert Peformance
----------------------------------------------------------------------
+## {{< anchor "class_concert" >}}{{< /anchor >}}Class Concert Peformance
 
-_Sonorous Currents: A Concert of 21M.380 Live Electronics Performance Practices_  
+*Sonorous Currents: A Concert of 21M.380 Live Electronics Performance Practices*   
 New works for live electronics with laptops, iPhones, circuits, and other sonological mechanisms
 
 Selections from the program:
 
 Introduction by Christopher Ariza
 
-_Work II_  
-Christopher Ariza  
+*Work II*   
+Christopher Ariza   
 for nine or more laptops and dual-analog gamepads
 
-_Fruit Loops_  
+*Fruit Loops*   
 Hsieh Chen and two other MIT students
 
-_Improvisation_  
+*Improvisation*   
 Hsieh Chen, Chris "8-Ball" Reyes, Andrew B. Shapiro, and eight other MIT students
 
-_Haunted_  
+*Haunted*   
 Three MIT students
 
-_Work III_  
-Christopher Ariza  
+*Work III*   
+Christopher Ariza   
 for nine or more laptops and dual-analog gamepads
 
-{{< resource a99380b4-939b-27dc-a2c3-cbae224adefb >}}
+{{< resource uuid="a99380b4-939b-27dc-a2c3-cbae224adefb" >}}
 
-Audio recording ([ZIP - 53MB](/ans7870/21m/21m.380/S11/MIT21M_380S11_concert.zip)) (This zip file contains: 6 .mp3 files)
+Audio recording ({{% resource_link "a466b2ca-96bc-457f-96e7-b13a2eeaecfa" "ZIP - 53MB" %}}) (This zip file contains: 6 .mp3 files)
