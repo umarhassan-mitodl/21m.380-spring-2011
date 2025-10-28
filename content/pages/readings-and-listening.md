@@ -37,7 +37,7 @@ Foundations: Live Electronics
 Foundations: Sounds, Signals, Samples, and Encodings
 {{< tdclose >}}{{< tdopen >}}
 
-Wang, G. "A History of Programming and Music." In *The Cambridge Companion to Electronic Music*. Edited by N. Collins, and J. d'Escriván. Cambridge University Press, 2007, pp. 55-71. ISBN: 9780521868617. \[Preview with [Google Books](http://books.google.com/books?id=AJbdPZv1DjgC&lpg=PA6&pg=PA55#v=onepage&q&f=false)\]
+Wang, G. "A History of Programming and Music." In *The Cambridge Companion to Electronic Music*. Edited by N. Collins, and J. d'Escriván. Cambridge University Press, 2007, pp. 55-71. ISBN: 9780521868617. \[Preview with {{% resource_link "f269f989-242f-4c69-aad4-c5a65d2a4590" "Google Books" %}}\]
 
 Puckette, M. "Max at 17." *Computer Music Journal* 26, no. 4 (2002): pp. 31-43.   
 \[Read just pp. 31-37, 39-40, 42\]
@@ -55,21 +55,21 @@ Oswald, John. "Dab." *Plunderphonics 69/96*. Seeland/Fony, 1989.
 {{< tdclose >}}{{< tdopen >}}
 Foundations: Envelopes, Filters, Modulation, and Mixing
 {{< tdclose >}}{{< tdopen >}}
-Tanaka, A. "Sensor-Based Musical Instruments and Interactive Music." Chapter 12 in *The Oxford Handbook of Computer Music*. Edited by R. T. Dean. Oxford University Press, 2009. ISBN: 9780195331615. \[Read just pp. 233-243.\] \[Preview with [Google Books](http://books.google.com/books?id=96ymxXy3wjMC&lpg=PP1&pg=PA233#v=onepage&q&f=false)\]
+Tanaka, A. "Sensor-Based Musical Instruments and Interactive Music." Chapter 12 in *The Oxford Handbook of Computer Music*. Edited by R. T. Dean. Oxford University Press, 2009. ISBN: 9780195331615. \[Read just pp. 233-243.\] \[Preview with {{% resource_link "f953ac95-306e-4684-bbfc-5bce4fb06a0d" "Google Books" %}}\]
 {{< tdclose >}}{{< tdopen >}}
 
 Tenney, James. "Analog #1 (Noise Study)" (1961). *James Tenney: Selected Works: 1961-1969*. New World Records, 2003.
 
 Koenig, Gottfried Michele. *Funktion Grau* (1969). (Courtesy of Gottfried Michael Koenig. Used with permission.)
 
-- Internet Archive ([MP3 - 23MB](http://www.archive.org/download/MIT21M.380F08/lisn13_koenig.mp3))
+- Internet Archive ({{% resource_link "43267f4f-67c3-4909-b2b1-9e9a1a082f1c" "MP3 - 23MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
 Foundations: Managing Events, Signals, and Data
 {{< tdclose >}}{{< tdopen >}}
-Ryan, J. "[Some Remarks on Musical Instrument Design at STEIM.](http://dx.doi.org/10.1080/07494469100640021)" *Contemporary Music Review* 6, no. 1 (1991): pp. 3-17.
+Ryan, J. "{{% resource_link "99a491e8-1174-4dfd-b43c-d39f17a7cec0" "Some Remarks on Musical Instrument Design at STEIM." %}}" *Contemporary Music Review* 6, no. 1 (1991): pp. 3-17.
 {{< tdclose >}}{{< tdopen >}}
 
 Fennesz. "Traxdata." *Hotel Paral.lel.* Editions Mego, 2004.
@@ -86,9 +86,9 @@ Mori, Ikue. "The Pit & The Pendulum." *Garden*. Tzadik, 1996.
 Workshop: Performance and Improvisation
 {{< tdclose >}}{{< tdopen >}}
 
-Cook, P. "Principles for designing computer music controllers." *Proceedings of the 2001 Conference on New Interfaces for Musical Expression*. National University of Singapore, 2001. ([PDF](http://soundlab.cs.princeton.edu/publications/prc_chi2001.pdf))
+Cook, P. "Principles for designing computer music controllers." *Proceedings of the 2001 Conference on New Interfaces for Musical Expression*. National University of Singapore, 2001. ({{% resource_link "2b082c47-5d69-4e24-b2bc-fd0a2a6b383d" "PDF" %}})
 
-Trueman, D. "Why a Laptop Orchestra?" *Organised Sound* 12, no. 2 (2007): 171-179. ([PDF](http://plork.princeton.edu/papers/WhyALaptopOrchestra.pdf))
+Trueman, D. "Why a Laptop Orchestra?" *Organised Sound* 12, no. 2 (2007): 171-179. ({{% resource_link "bdc0e771-0551-4def-ad83-76f7a163cf93" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -106,17 +106,17 @@ Wanderley, M. M., and N. Orio. "Evaluation of Input Devices for Musical Expressi
 
 Musica Elettronica Viva (MEV)."Spacecraft" (1967). *MEV 40 (1967-2007)*. New World Records, 2008.
 
-AMM. "The Great Hall 1" (1982). [Laminal](https://web.archive.org/web/20160204075638/http://www.matchlessrecordings.com/amm-laminal). Matchless, 1997.
+AMM. "The Great Hall 1" (1982). {{% resource_link "fb7f5526-3403-45d0-9c48-a3f6283d7227" "Laminal" %}}. Matchless, 1997.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
 Workshop: Performance and Improvisation
 {{< tdclose >}}{{< tdopen >}}
-Holmes, T. "Live Electronic Music and Ambient Music." Chapter 15 in *Electronic and Experimental Music*. 3rd ed. Routledge, 2008, pp. 376-406. ISBN: 9780415957823. \[Preview in [Google Books](http://books.google.com/books?id=Q0uTAgAAQBAJ&pg=PA376=onepage)\]
+Holmes, T. "Live Electronic Music and Ambient Music." Chapter 15 in *Electronic and Experimental Music*. 3rd ed. Routledge, 2008, pp. 376-406. ISBN: 9780415957823. \[Preview in {{% resource_link "3bfff5ef-c754-4a6c-a93e-d153264296fe" "Google Books" %}}\]
 {{< tdclose >}}{{< tdopen >}}
 
-Cage, John. "[Imaginary Landscape No. 1](http://www.medienkunstnetz.de/works/imaginary-landscape-1/audio/1/)" (1939).
+Cage, John. "{{% resource_link "7faf829a-3c77-4a3c-8607-2967ad51448e" "Imaginary Landscape No. 1" %}}" (1939).
 
 ———. "Cartridge Music" (1960). *Music for Merce Cunningham*. Mode, 1995.
 
@@ -140,9 +140,9 @@ The Hub. "Peyote." *Boundary Layer*. Tzadik, 2007.
 Practices: Extending Common Physical Controllers
 {{< tdclose >}}{{< tdopen >}}
 
-Perkis, T. "Some Notes on My Electronic Improvisation Practices." Chapter 8 in *The Oxford Handbook of Computer Music*. Edited by R. T. Dean. Oxford University Press, 2009, pp. 161-166. ISBN: 9780195331615. \[Preview with [Google Books](http://books.google.com/books?id=96ymxXy3wjMC&lpg=PP1&pg=PA161#v=onepage&q&f=false)\]
+Perkis, T. "Some Notes on My Electronic Improvisation Practices." Chapter 8 in *The Oxford Handbook of Computer Music*. Edited by R. T. Dean. Oxford University Press, 2009, pp. 161-166. ISBN: 9780195331615. \[Preview with {{% resource_link "262a336a-82ba-4b7f-86c2-1491dfa52cb5" "Google Books" %}}\]
 
-Fiebrink, R., G. Wang, and P. Cook. "Don't Forget the Laptop: Using Native Input Capabilities for Expressive Musical Control." *Proceedings of the 2001 Conference on New Interfaces for Musical Expression*. National University of Singapore, 2001, pp. 164-167. ([PDF](https://www.researchgate.net/publication/228699337_Don't_Forget_the_Laptop_Using_Native_Input_Capabilities_for_Expressive_Musical_Control))
+Fiebrink, R., G. Wang, and P. Cook. "Don't Forget the Laptop: Using Native Input Capabilities for Expressive Musical Control." *Proceedings of the 2001 Conference on New Interfaces for Musical Expression*. National University of Singapore, 2001, pp. 164-167. ({{% resource_link "7528d9b8-da58-452a-9217-a350ddd947f4" "PDF" %}})
 
 {{< tdclose >}}{{< tdopen >}}
 
@@ -158,7 +158,7 @@ D-Styles. "Felonius Funk." *Phantazmagorea*. Red Rocket, 2002.
 Workshop: Performance and Improvisation
 {{< tdclose >}}{{< tdopen >}}
 
-Kuivila, R. "Open Sources: Words, Circuits and the Notation-Realization in the Music of David Tudor." *Leonardo Music Journal* 14 (2004): 17-23. \[Alternate source, 2001 conference version ([PDF](http://www.getty.edu/research/exhibitions_events/events/david_tudor_symposium/pdf/kuivila.pdf))\]
+Kuivila, R. "Open Sources: Words, Circuits and the Notation-Realization in the Music of David Tudor." *Leonardo Music Journal* 14 (2004): 17-23. \[Alternate source, 2001 conference version ({{% resource_link "4f5d790b-48e4-4255-9097-fe8fad374b57" "PDF" %}})\]
 
 Driscoll, J., and M. Rogalsky. "David Tudor's 'Rainforest': An Evolving Exploration of Resonance." *Leonardo Music Journal* 14 (2004): 25-30.
 
@@ -166,18 +166,18 @@ Driscoll, J., and M. Rogalsky. "David Tudor's 'Rainforest': An Evolving Explorat
 
 Tudor, David. "Rainforest" (1973). *David Tudor & Gordon Mumma*. New World Records, 2006.
 
-- Supplemental material: video performance excerpt, text and images. Getty Research Institute. "[David Tudor – Rainforest IV.](http://www.getty.edu/research/tools/guides_bibliographies/david_tudor/av/rainforest.html)"
+- Supplemental material: video performance excerpt, text and images. Getty Research Institute. "{{% resource_link "dbe80d26-e125-4cde-8110-98fa68d727bc" "David Tudor – Rainforest IV." %}}"
 
 ———. "Pulsers" (1976), with Takehisa Kosugi. *Three works for live electronics*. Lovely Music, 1996.
 
-———. "Toneburst" (1975). CD accompanying [*Leonardo Music Journal*, v. 14](http://www.leonardo.info/isast/journal/toclmj14.html). 2004.
+———. "Toneburst" (1975). CD accompanying {{% resource_link "7b05e927-9f07-4375-9bc1-c117ee9c7715" "*Leonardo Music Journal*, v. 14" %}}. 2004.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
 Practices: Touch Interfaces and OpenSoundControl
 {{< tdclose >}}{{< tdopen >}}
-Wright, M. "[Open Sound Control: an enabling technology for musical networking](http://dx.doi.org/10.1017/S1355771805000932)." *Organised Sound* 10, no. 3 (2005): 193-200.
+Wright, M. "{{% resource_link "9153139b-0f9a-40f3-99a9-5d345cfaf7fb" "Open Sound Control: an enabling technology for musical networking" %}}." *Organised Sound* 10, no. 3 (2005): 193-200.
 {{< tdclose >}}{{< tdopen >}}
 Ikeda, Ryoji. "data.syntax" and "data.reflex." *Dataplex*. Raster-Noton, 2006.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -219,14 +219,14 @@ Selections from CD accompanying \[Collins\] text:
 {{< tdclose >}}{{< tdopen >}}
 Practices: Electronics and Sensors
 {{< tdclose >}}{{< tdopen >}}
-Tanaka, A. "Sensor-Based Musical Instruments and Interactive Music." Chapter 12 in *The Oxford Handbook of Computer Music*. Edited by R. T. Dean. Oxford University Press, 2009, read just pp. 243-257. ISBN: 9780195331615. \[Preview with [Google Books](http://books.google.com/books?id=96ymxXy3wjMC&lpg=PP1&pg=PA243#v=onepage&q&f=false)\]
+Tanaka, A. "Sensor-Based Musical Instruments and Interactive Music." Chapter 12 in *The Oxford Handbook of Computer Music*. Edited by R. T. Dean. Oxford University Press, 2009, read just pp. 243-257. ISBN: 9780195331615. \[Preview with {{% resource_link "a6c5ade3-0ec3-4958-a826-c09f0fee1d59" "Google Books" %}}\]
 {{< tdclose >}}{{< tdopen >}}
 
 Atau Tanaka/Sensorband. "Sensorband." *Power and Responsibility: Converted to Streaming Between Machines*. Leonardo Music Journal CD Series, v. 9 (1999).
 
-v2unstable. "Sensorband Performance (DEAF96)." November 12, 2010. YouTube. Accessed August 16, 2011. [http://www.youtube.com/watch?v=XLSoPmY6jGM](http://www.youtube.com/watch?v=XLSoPmY6jGM)
+v2unstable. "Sensorband Performance (DEAF96)." November 12, 2010. YouTube. Accessed August 16, 2011. {{% resource_link "a7cbe869-1016-4321-a028-90fd0fd4e2d2" "http://www.youtube.com/watch?v=XLSoPmY6jGM" %}}
 
-BKeeperSystem. "Atau Tanaka at the Luminaire." December 19, 2008. YouTube. Accessed August 16, 2011. [http://www.youtube.com/watch?v=FB_yE_Y3_8k](http://www.youtube.com/watch?v=FB_yE_Y3_8k)
+BKeeperSystem. "Atau Tanaka at the Luminaire." December 19, 2008. YouTube. Accessed August 16, 2011. {{% resource_link "e8a462c7-4a4b-4ba2-a4ee-5ca8524dc273" "http://www.youtube.com/watch?v=FB_yE_Y3_8k" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
@@ -245,31 +245,31 @@ Workshop: Performance and Improvisation
 {{< tdclose >}}{{< tdopen >}}
 Practices: Approaches to Composing Improvisations
 {{< tdclose >}}{{< tdopen >}}
-Dennis, B. "[Cardew’s 'Treatise' (Mainly the Visual Aspects)](http://dx.doi.org/10.1017/S0040298200013516)." *Tempo* 177 (1991): 10-16.
+Dennis, B. "{{% resource_link "69b3b292-530b-442c-b2e1-3cfa0cce88be" "Cardew’s 'Treatise' (Mainly the Visual Aspects)" %}}." *Tempo* 177 (1991): 10-16.
 {{< tdclose >}}{{< tdopen >}}
 
 Cardew, Cornelius. "Paragraph 2." *Cardew: The Great Learning / Bedford: Two Poems for Chorus on Words*. The Scratch Orchestra; Cornelius Cardew, conductor; 1971 performance. Deutsche Grammophon, 2002.
 
-———. "Treatise." *Cornelius Cardew — Memorial Concert (1985)*. \[Download from [UbuWeb Sound](http://www.ubu.com/sound/cardew_memorial.html)\]
+———. "Treatise." *Cornelius Cardew — Memorial Concert (1985)*. \[Download from {{% resource_link "c73a074a-1864-4e55-889f-f43b2eac74ee" "UbuWeb Sound" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
 {{< tdclose >}}{{< tdopen >}}
 Practices: Timing and Networking
 {{< tdclose >}}{{< tdopen >}}
-Rebelo, P., and A. Renaud. 2006. "The Frequencyliator—Distributing Structures for Networked Laptop Improvisation." *Proceedings of New Interfaces for Musical Expression: Network Performance* (NIME 06). Paris, France. pp. 53-56. ([PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.107.5156&rep=rep1&type=pdf))
+Rebelo, P., and A. Renaud. 2006. "The Frequencyliator—Distributing Structures for Networked Laptop Improvisation." *Proceedings of New Interfaces for Musical Expression: Network Performance* (NIME 06). Paris, France. pp. 53-56. ({{% resource_link "9372a226-23ad-4a19-b575-ce18a8bf208e" "PDF" %}})
 {{< tdclose >}}{{< tdopen >}}
 
-Kioku. "Pinari." *Both Far and Near*. Quiet Design Records, 2007. \[Audio and video clips available at [Kioku | Multimedia](http://www.flexatone.net/kioku/music.html)\]
+Kioku. "Pinari." *Both Far and Near*. Quiet Design Records, 2007. \[Audio and video clips available at {{% resource_link "3b1adb8d-deb4-421f-beee-1f9dcfad524f" "Kioku | Multimedia" %}}\]
 
-Ariza, C. [Pulsefact](http://www.last.fm/music/Christopher+Ariza/www.pulsefact.net).
+Ariza, C. {{% resource_link "bd042cfc-d88c-4fbf-af15-37ffee5fa867" "Pulsefact" %}}.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
 Workshop: Performance and Improvisation
 {{< tdclose >}}{{< tdopen >}}
-Cascone, K. "[Grain, Sequence, System \[Three Levels of Reception in the Performance of Laptop Music\]](http://www.intelligentagent.com/archive/Vol4_No1_djvj_cascone.htm)." *Intelligent Agent* 4, no. 1 (2004).
+Cascone, K. "{{% resource_link "1ed7ef27-78a5-4d8b-b5f0-f25c1f21a936" "Grain, Sequence, System [Three Levels of Reception in the Performance of Laptop Music]" %}}." *Intelligent Agent* 4, no. 1 (2004).
 {{< tdclose >}}{{< tdopen >}}
 Cascone, Kim. "Dust Theories 2: Alchemical Residue." Musicworks CD 82, 2001.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -290,11 +290,11 @@ Practices: Novel and Custom Interfaces
 
 Weinberg, G. "Playpens, Fireflies, and Squeezables: New Musical Instruments for Bridging the Thoughtful and the Joyful." *Leonardo Music Journal* 12 (2002): 43-51
 
-- More about [Beatbugs](http://opera.media.mit.edu/projects/beatbugs.html)
-- More about [Squeezables](http://alumni.media.mit.edu/~gan/Gan/Education/MIT/MediaLab/Research/Squeezables/index.html)
+- More about {{% resource_link "2d775715-25ee-42da-bb31-eda9cfdb0575" "Beatbugs" %}}
+- More about {{% resource_link "d3ea9355-7024-4d3d-b303-71f13062efbc" "Squeezables" %}}
 
 {{< tdclose >}}{{< tdopen >}}
-Video of performance of Gil Weinberg's Nerve, for 8 Beatbugs Georgia Tech Center for Music Technology. "[Nerve Beatbugs in Concert and Workshop](https://www.youtube.com/watch?v=HqVlFdqNKEg)." YouTube. July 8, 2010.
+Video of performance of Gil Weinberg's Nerve, for 8 Beatbugs Georgia Tech Center for Music Technology. "{{% resource_link "8333c697-cb25-42d1-bfd9-bc1b76e93235" "Nerve Beatbugs in Concert and Workshop" %}}." YouTube. July 8, 2010.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
@@ -309,9 +309,9 @@ Workshop: Performance and Improvisation
 Practices: Live Coding, Live Algorithms, and Generative Techniques
 {{< tdclose >}}{{< tdopen >}}
 
-Collins, N., et al. "[Live Coding in Laptop Performance](http://dx.doi.org/10.1017/S135577180300030X)." *Organized Sound* 8 (2003): 321-330.
+Collins, N., et al. "{{% resource_link "5a45382e-dac1-410d-a36a-7774ac360451" "Live Coding in Laptop Performance" %}}." *Organized Sound* 8 (2003): 321-330.
 
-Brown, A. R., and A. Sorensen. "[Interacting with Generative Music through Live Coding](http://dx.doi.org/10.1080/07494460802663991)." *Contemporary Music Review* 28, no. 1 (2009): 17-29.
+Brown, A. R., and A. Sorensen. "{{% resource_link "bb55a66b-4169-41e0-9a56-f129ea207bf6" "Interacting with Generative Music through Live Coding" %}}." *Contemporary Music Review* 28, no. 1 (2009): 17-29.
 
 {{< tdclose >}}{{< tdopen >}}
  
